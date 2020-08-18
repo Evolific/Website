@@ -5,18 +5,18 @@ name = "Hugo Lime"
 license = "MIT"
 licenselink = "https://github.com/uicardiodev/hugo-lime/blob/master/LICENSE.md"
 description = ""
-homepage = "http://uicard.io/products/green-paper"
+homepage = "http://evolific.com"
 tags = ["minimal","blog","services","responsive","bootstrap","uicardio","illustrations"]
 features = ["cover","pricing","faq","parteners","blog","work","portfolio","contact","illustrations"]
 min_version = "0.47.1"
 
 [author]
-  name = "UICardio"
-  homepage = "https://uicard.io/products/sodium-hugo-theme"
+  name = "System"
+  homepage = "#"
 
 [developer]
-	name = "Arvind"
-	homepage = "https://heyarviind.com"
+	name = "Evolific"
+	homepage = "https://evolific.com"
 
 # If porting an existing theme
 [original]
